@@ -1,0 +1,4 @@
+check the program 
+it is correct or not
+with error correction
+stop it
